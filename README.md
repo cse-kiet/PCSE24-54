@@ -10,12 +10,10 @@ It is mandatory to add following items to the Github Repo:-
 7. ⁠How to execute the code (instructions)
 8. Project ⁠Requirements for execution
 
-Add Title of  to the project to README and abstract of the project.
 
+## Title - Vehicle Detection and Number Plate Reading
 
-Title - Vehicle Detection and Number Plate Reading
-
-ABSTRACT
+## ABSTRACT
 
 This report introduces an integrated automation framework tailored for efficient real-time 
 vehicle detection and number plate recognition. Leveraging cutting-edge technologies such as the YOLOv5 object detection model for vehicle detection, DeepSORT for continuous vehicle tracking, and the Tesseract OCR engine for character recognition in automatic number plate recognition (ANPR) systems, the framework ensures seamless detection, tracking, and 
